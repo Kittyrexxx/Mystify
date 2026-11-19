@@ -16,6 +16,6 @@ Grab the pre-compiled `.exe` from the Releases page and run it.
 If you want to build it yourself:
 In command prompt CD to the folders, Then run ```cargo build --release```
 
-Donations (MONERO/XMR): 44zq7bbPzqi2LbJJ5BaqDNWJXQYrhC28kjFDEQjymwhxR8eAiDdxJM6DtRCewXAEF4eXR992j2Rpa9wWj6jNFWxGPNki2is
+Donations (MONERO/XMR): 88DUKhjd51UEvQpVhhPUgDQViPsaXV7ag934ksE6BmWbFMCLtAtv4qyDoB7Wb2b1n7Z8CSbhGjrRKGacBJsU9Sf1Fuw2emW
 
 Donations help support the developer with future updates & projects.
